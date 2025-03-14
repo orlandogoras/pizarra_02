@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1741642938,
+	"version": 1741989690,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,6 +18,12 @@
 		"images/flecha_continuar-sheet0.png",
 		"images/boton_musica-sheet0.png",
 		"images/boton_musica-sheet1.png",
+		"images/digitos_sprite-sheet0.png",
+		"images/digitos_sprite-sheet1.png",
+		"images/digitos_sprite-sheet2.png",
+		"images/up_arrow_sprite-sheet0.png",
+		"images/down_arrow_sprite2-sheet0.png",
+		"images/linea-sheet0.png",
 		"media/aplausos.m4a",
 		"media/aplausos.ogg",
 		"media/aplausos_poder.m4a",

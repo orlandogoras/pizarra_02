@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1741642938
+#1741989690
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -17,6 +17,12 @@ images/muestra_tinta-sheet2.png
 images/flecha_continuar-sheet0.png
 images/boton_musica-sheet0.png
 images/boton_musica-sheet1.png
+images/digitos_sprite-sheet0.png
+images/digitos_sprite-sheet1.png
+images/digitos_sprite-sheet2.png
+images/up_arrow_sprite-sheet0.png
+images/down_arrow_sprite2-sheet0.png
+images/linea-sheet0.png
 media/aplausos.m4a
 media/aplausos.ogg
 media/aplausos_poder.m4a
